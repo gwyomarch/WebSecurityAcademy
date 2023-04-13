@@ -22,6 +22,10 @@ python3 exploit-lab01.py <TARGET> <ATTACKER> <COLLABORATOR>
 python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net https://xxxxxxxxxxxxx.exploit-server.net xxxxxxxxxx.oastify.com
 ```
 
+**Categories:**
+- [SQL Injection](#sql-injection)
+- [XSS](#xss)
+
 ## SQL Injection
 
 ### **Script 01**
