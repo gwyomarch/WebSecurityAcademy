@@ -1,0 +1,5 @@
+beautifulsoup4
+requests
+websockets 
+urllib
+urllib3
