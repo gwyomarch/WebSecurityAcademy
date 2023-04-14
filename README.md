@@ -118,11 +118,15 @@ Lab: [Blind SQL injection with out-of-band interaction](https://portswigger.net/
 
 Difficulty: PRACTITIONER
 
+- Requires Burp Collaborator (BurpSuite Pro)
+
 ### **Script 16**
 
 Lab: [Blind SQL injection with out-of-band data exfiltration](https://portswigger.net/web-security/sql-injection/blind/lab-out-of-band-data-exfiltration)
 
 Difficulty: PRACTITIONER
+
+- Requires Burp Collaborator (BurpSuite Pro)
 
 ### **Script 17**
 
@@ -218,11 +222,15 @@ Lab: [Exploiting cross-site scripting to steal cookies](https://portswigger.net/
 
 Difficulty: PRACTITIONER
 
+- Requires Burp Collaborator (BurpSuite Pro)
+
 ### **Script 15**
 
 Lab: [Exploiting cross-site scripting to capture passwords](https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-capturing-passwords)
 
 Difficulty: PRACTITIONER
+
+- Requires Burp Collaborator (BurpSuite Pro)
 
 ### **Script 16**
 
@@ -308,8 +316,36 @@ Lab: [Reflected XSS protected by very strict CSP, with dangling markup attack](h
 
 Difficulty: EXPERT
 
+- Requires Burp Collaborator (BurpSuite Pro)
+
 ### **Script 30**
 
 Lab: [Reflected XSS protected by CSP, with CSP bypass](https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-csp-bypass)
 
 Difficulty: EXPERT
+
+
+
+
+## CSRF
+
+### **Script 01**
+
+Lab: [CSRF vulnerability with no defenses](https://portswigger.net/web-security/csrf/lab-no-defenses)
+
+Difficulty: APPRENTICE
+
+### **Script 02**
+
+Lab: [CSRF where token validation depends on request method](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-validation-depends-on-request-method)
+
+Difficulty: PRACTITIONER
+
+### **Script 03**
+
+Lab: [CSRF where token validation depends on token being present](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-validation-depends-on-token-being-present)
+
+Difficulty: PRACTITIONER
+
+
+...
