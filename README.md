@@ -14,6 +14,7 @@ python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net <YOUR_PA
 python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net SOLUTION
 python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net SOLUTION1
 python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net SOLUTION2
+python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net $(cat YOUR_PAYLOAD_FILE)
 
 python3 exploit-lab01.py <TARGET> <ATTACKER>
 python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net https://xxxxxxxxxxxxx.exploit-server.net
