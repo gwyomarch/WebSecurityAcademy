@@ -355,5 +355,11 @@ Lab: [CSRF where token is not tied to user session](https://portswigger.net/web-
 
 Difficulty: PRACTITIONER
 
+### **Script 05**
+
+Lab: [CSRF where token is tied to non-session cookie](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-tied-to-non-session-cookie)
+
+Difficulty: PRACTITIONER
+
 
 ...
