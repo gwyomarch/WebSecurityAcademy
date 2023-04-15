@@ -26,7 +26,7 @@ python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net https://
 **Categories:**
 - [SQL Injection](#sql-injection)
 - [XSS](#xss)
-- [CSRF](#csrf)
+- [CSRF](#csrf) W.I.P.
 
 ## SQL Injection
 
@@ -362,4 +362,20 @@ Lab: [CSRF where token is tied to non-session cookie](https://portswigger.net/we
 Difficulty: PRACTITIONER
 
 
+### **Script 06**
+
+Lab: [CSRF where token is duplicated in cookie](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-duplicated-in-cookie)
+
+Difficulty: PRACTITIONER
+
+### **Script 07**
+
+Lab: [SameSite Lax bypass via method override](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-lax-bypass-via-method-override)
+
+Difficulty: PRACTITIONER
+
+
+
+
 ...
+
