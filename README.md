@@ -348,5 +348,11 @@ Lab: [CSRF where token validation depends on token being present](https://portsw
 
 Difficulty: PRACTITIONER
 
+### **Script 04**
+
+Lab: [CSRF where token is not tied to user session](https://portswigger.net/web-security/csrf/bypassing-token-validation/lab-token-not-tied-to-user-session)
+
+Difficulty: PRACTITIONER
+
 
 ...
