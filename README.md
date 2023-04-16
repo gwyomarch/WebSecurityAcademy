@@ -24,9 +24,9 @@ python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net https://
 ```
 
 **Categories:**
-- [SQL Injection](#sql-injection)
-- [XSS](#xss)
-- [CSRF](#csrf)
+- [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
+- [XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XSS#xss)
+- [CSRF](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CSRF#csrf)
 
 ## SQL Injection
 
