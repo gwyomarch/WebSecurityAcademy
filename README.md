@@ -26,11 +26,11 @@ python3 exploit-lab01.py https://xxxxxxxxxxxxx.web-security-academy.net https://
 **Categories:**
 - [SQL Injection](#sql-injection)
 - [XSS](#xss)
-- [CSRF](#csrf) W.I.P.
+- [CSRF](#csrf)
 
 ## SQL Injection
 
-### **Script 01**
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SQLInjection/exploit-lab01.py)
 
 Lab: [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data)
 
@@ -391,6 +391,29 @@ Difficulty: PRACTITIONER
 ### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CSRF/exploit-lab09.py)
 
 Lab: [SameSite Strict bypass via sibling domain](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-sibling-domain)
+
+Difficulty: PRACTITIONER
+
+- Requires Burp Collaborator (BurpSuite Pro)	NOT TESTED <!>
+
+
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CSRF/exploit-lab10.py)
+
+Lab: [SameSite Lax bypass via cookie refresh](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-cookie-refresh)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 11**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CSRF/exploit-lab11.py)
+
+Lab: [CSRF where Referer validation depends on header being present](https://portswigger.net/web-security/csrf/bypassing-referer-based-defenses/lab-referer-validation-depends-on-header-being-present)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 12**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CSRF/exploit-lab12.py)
+
+Lab: [CSRF with broken Referer validation](https://portswigger.net/web-security/csrf/bypassing-referer-based-defenses/lab-referer-validation-broken)
 
 Difficulty: PRACTITIONER
 

