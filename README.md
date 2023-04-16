@@ -331,7 +331,7 @@ Difficulty: EXPERT
 
 ## CSRF
 
-### **Script 01**
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CSRF/exploit-lab10.py)
 
 Lab: [CSRF vulnerability with no defenses](https://portswigger.net/web-security/csrf/lab-no-defenses)
 
@@ -368,12 +368,26 @@ Lab: [CSRF where token is duplicated in cookie](https://portswigger.net/web-secu
 
 Difficulty: PRACTITIONER
 
+
 ### **Script 07**
 
 Lab: [SameSite Lax bypass via method override](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-lax-bypass-via-method-override)
 
 Difficulty: PRACTITIONER
 
+
+### **Script 08**
+
+Lab: [SameSite Strict bypass via client-side redirect](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-client-side-redirect)
+
+Difficulty: PRACTITIONER
+
+
+### **Script 09**
+
+Lab: [SameSite Strict bypass via sibling domain](https://portswigger.net/web-security/csrf/bypassing-samesite-restrictions/lab-samesite-strict-bypass-via-sibling-domain)
+
+Difficulty: PRACTITIONER
 
 
 

