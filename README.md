@@ -29,11 +29,13 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 ```
 
 **Categories:**
-- [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
-- [XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XSS#xss)
-- [CSRF](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CSRF#csrf)
-- [ClickJacking](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/ClickJacking#clickjacking)
-- [DOM-Based XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DOMBasedXSS#dombasedxss)
+- [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection): 17/17
+- [XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XSS#xss): 30/30
+- [CSRF](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CSRF#csrf): 12/12
+- [ClickJacking](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/ClickJacking#clickjacking): 5/5
+- [DOM-Based XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DOMBasedXSS#dombasedxss): 7/7
+- [CORS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CORS#cors): 3/4
+- [XXE](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe): 4/9
 
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
@@ -509,6 +511,7 @@ Difficulty: PRACTITIONER
 
 
 
+
 ## [DOM-Based XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DOMBasedXSS#dombasedxss)
 
 
@@ -559,6 +562,72 @@ Difficulty: EXPERT
 Lab: [Clobbering DOM attributes to bypass HTML filters](https://portswigger.net/web-security/dom-based/dom-clobbering/lab-dom-clobbering-attributes-to-bypass-html-filters)
 
 Difficulty: EXPERT
+
+
+
+
+## [CORS (Cross-origin Resource Sharing)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CORS#cors)
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CORS/exploit-lab01.py)
+
+Lab: [CORS vulnerability with basic origin reflection](https://portswigger.net/web-security/cors/lab-basic-origin-reflection-attack)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CORS/exploit-lab02.py)
+
+Lab: [CORS vulnerability with trusted null origin](https://portswigger.net/web-security/cors/lab-null-origin-whitelisted-attack)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CORS/exploit-lab03.py)
+
+Lab: [CORS vulnerability with trusted insecure protocols](https://portswigger.net/web-security/cors/lab-breaking-https-attack)
+
+Difficulty: PRACTITIONER
+
+
+### **Script 04** **W.I.P.**
+
+Lab: [CORS vulnerability with internal network pivot attack](https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack)
+
+Difficulty: EXPERT
+
+
+
+
+## [XXE (XML External Entity injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe)
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab01.py)
+
+Lab: [Exploiting XXE using external entities to retrieve files](https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-retrieve-files)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab02.py)
+
+Lab: [Exploiting XXE to perform SSRF attacks](https://portswigger.net/web-security/xxe/lab-exploiting-xxe-to-perform-ssrf)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab03.py)
+
+Lab: [Blind XXE with out-of-band interaction](https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab04.py)
+
+Lab: [Blind XXE with out-of-band interaction via XML parameter entities](https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-interaction-using-parameter-entities)
+
+Difficulty: PRACTITIONER
 
 
 

