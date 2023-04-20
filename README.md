@@ -30,12 +30,12 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 
 **Categories:**
 - [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection): 17/17
-- [XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XSS#xss): 30/30
-- [CSRF](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CSRF#csrf): 12/12
+- [XSS (Cross-Site Scripting)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XSS#xss): 30/30
+- [CSRF (Cross-Site Request Forgery)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CSRF#csrf): 12/12
 - [ClickJacking](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/ClickJacking#clickjacking): 5/5
 - [DOM-Based XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DOMBasedXSS#dombasedxss): 7/7
-- [CORS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CORS#cors): 3/4
-- [XXE](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe): 4/9
+- [CORS (Cross-Origin Resource Sharing)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CORS#cors): 3/4
+- [XXE (XML External Entity injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe): 5/9
 
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)

@@ -1,5 +1,5 @@
 
-## XXE (XML External Entity injection)
+## XXE
 
 
 ### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab01.py)
@@ -29,6 +29,12 @@ Lab: [Blind XXE with out-of-band interaction via XML parameter entities](https:/
 
 Difficulty: PRACTITIONER
 
+
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab05.py)
+
+Lab: [Exploiting blind XXE to exfiltrate data using a malicious external DTD](https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-exfiltration)
+
+Difficulty: PRACTITIONER
 
 
 

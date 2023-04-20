@@ -1,5 +1,5 @@
 
-## CORS (Cross-origin Resource Sharing)
+## CORS
 
 
 ### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CORS/exploit-lab01.py)
