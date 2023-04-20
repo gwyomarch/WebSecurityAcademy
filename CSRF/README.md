@@ -64,8 +64,6 @@ Lab: [SameSite Strict bypass via sibling domain](https://portswigger.net/web-sec
 
 Difficulty: PRACTITIONER
 
-- Requires Burp Collaborator (BurpSuite Pro)	NOT TESTED <!>
-
 
 ### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CSRF/exploit-lab10.py)
 
