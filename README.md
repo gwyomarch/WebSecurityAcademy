@@ -35,7 +35,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [ClickJacking](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/ClickJacking#clickjacking): 5/5
 - [DOM-Based XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DOMBasedXSS#dombasedxss): 7/7
 - [CORS (Cross-Origin Resource Sharing)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CORS#cors): 3/4
-- [XXE (XML External Entity injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe): 5/9
+- [XXE (XML External Entity injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe): 8/9
 
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
@@ -630,5 +630,36 @@ Lab: [Blind XXE with out-of-band interaction via XML parameter entities](https:/
 Difficulty: PRACTITIONER
 
 
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab05.py)
+
+Lab: [Exploiting blind XXE to exfiltrate data using a malicious external DTD](https://portswigger.net/web-security/xxe/blind/lab-xxe-with-out-of-band-exfiltration)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab06.py)
+
+Lab: [Exploiting blind XXE to retrieve data via error messages](https://portswigger.net/web-security/xxe/blind/lab-xxe-with-data-retrieval-via-error-messages)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab07.py)
+
+Lab: [Exploiting XInclude to retrieve files](https://portswigger.net/web-security/xxe/lab-xinclude-attack)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 08**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab08.py)
+
+Lab: [Exploiting XXE via image file upload](https://portswigger.net/web-security/xxe/lab-xxe-via-file-upload)
+
+Difficulty: PRACTITIONER
+
+- Require shutil & pytesseract (python3 -m pip install pytest-shutil pytesseract)
+
+
 
 ...
+

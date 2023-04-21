@@ -3,3 +3,5 @@ requests
 websockets 
 urllib
 urllib3
+pytest-shutil
+pytesseract

