@@ -60,3 +60,10 @@ Difficulty: PRACTITIONER
 - Require shutil & pytesseract (python3 -m pip install pytest-shutil pytesseract)
 
 
+### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab09.py)
+
+Lab: [Exploiting XXE to retrieve data by repurposing a local DTD](https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd)
+
+Difficulty: EXPERT
+
+
