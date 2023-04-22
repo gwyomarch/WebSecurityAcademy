@@ -28,6 +28,8 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxxxxxxxxx.exploit-server.net xxxxxxxxxx.oastify.com $(cat <YOUR_PAYLOAD_FILE>)
 ```
 
+
+
 **Categories:**
 - [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection): 17/17
 - [XSS (Cross-Site Scripting)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XSS#xss): 30/30
@@ -36,6 +38,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [DOM-Based XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DOMBasedXSS#dombasedxss): 7/7
 - [CORS (Cross-Origin Resource Sharing)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CORS#cors): 3/4
 - [XXE (XML External Entity injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe): 9/9
+- [SSRF (Server-Side Request Forgery)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSRF#ssrf): 7/7
 
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
@@ -163,7 +166,7 @@ Difficulty: PRACTITIONER
 
 
 
-## [XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XSS#xss)
+## [XSS (Cross-Site Scripting)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XSS#xss)
 
 
 ### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XSS/exploit-lab01.py)
@@ -384,7 +387,7 @@ Difficulty: EXPERT
 
 
 
-## [CSRF](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CSRF#csrf)
+## [CSRF (Cross-Site Request Forgery)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CSRF#csrf)
 
 
 ### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CSRF/exploit-lab01.py)
@@ -657,7 +660,11 @@ Lab: [Exploiting XXE via image file upload](https://portswigger.net/web-security
 
 Difficulty: PRACTITIONER
 
-- Require shutil & pytesseract (python3 -m pip install pytest-shutil pytesseract)
+- Requires shutil & pytesseract 
+
+```bash
+python3 -m pip install pytest-shutil pytesseract
+```
 
 
 ### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/XXE/exploit-lab09.py)
@@ -665,6 +672,62 @@ Difficulty: PRACTITIONER
 Lab: [Exploiting XXE to retrieve data by repurposing a local DTD](https://portswigger.net/web-security/xxe/blind/lab-xxe-trigger-error-message-by-repurposing-local-dtd)
 
 Difficulty: EXPERT
+
+
+
+
+## [SSRF (Server-Side Request Forgery)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSRF#ssrf)
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSRF/exploit-lab01.py)
+
+Lab: [Basic SSRF against the local server](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-localhost)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSRF/exploit-lab02.py)
+
+Lab: [Basic SSRF against another back-end system](https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-backend-system)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSRF/exploit-lab03.py)
+
+Lab: [SSRF with blacklist-based input filter](https://portswigger.net/web-security/ssrf/lab-ssrf-with-blacklist-filter)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSRF/exploit-lab04.py)
+
+Lab: [SSRF with filter bypass via open redirection vulnerability](https://portswigger.net/web-security/ssrf/lab-ssrf-filter-bypass-via-open-redirection)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSRF/exploit-lab05.py)
+
+Lab: [Blind SSRF with out-of-band detection](https://portswigger.net/web-security/ssrf/blind/lab-out-of-band-detection)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSRF/exploit-lab06.py)
+
+Lab: [SSRF with whitelist-based input filter](https://portswigger.net/web-security/ssrf/lab-ssrf-with-whitelist-filter)
+
+Difficulty: EXPERT
+
+
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSRF/exploit-lab07.py)
+
+Lab: [Blind SSRF with Shellshock exploitation](https://portswigger.net/web-security/ssrf/blind/lab-shellshock-exploitation)
+
+Difficulty: EXPERT
+
+- Requires Burp Collaborator (BurpSuite Pro)    NOT TESTED <!>
 
 
 ...
