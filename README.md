@@ -764,5 +764,19 @@ Lab: [HTTP request smuggling, confirming a CL.TE vulnerability via differential 
 Difficulty: PRACTITIONER
 
 
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab05.py)
+
+Lab: [HTTP request smuggling, confirming a TE.CL vulnerability via differential responses](https://portswigger.net/web-security/request-smuggling/finding/lab-confirming-te-cl-via-differential-responses)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab06.py)
+
+Lab: [Exploiting HTTP request smuggling to bypass front-end security controls, CL.TE vulnerability](https://portswigger.net/web-security/request-smuggling/exploiting/lab-bypass-front-end-controls-cl-te)
+
+Difficulty: PRACTITIONER
+
+
 ...
 
