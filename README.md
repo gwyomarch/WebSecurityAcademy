@@ -813,5 +813,12 @@ Lab: [Response queue poisoning via H2.TE request smuggling](https://portswigger.
 Difficulty: PRACTITIONER
 
 
+### [**Script 12**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab12.py)
+
+Lab: [H2.CL request smuggling](https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-cl-request-smuggling)
+
+Difficulty: PRACTITIONER
+
+
 ...
 
