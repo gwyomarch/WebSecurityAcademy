@@ -820,5 +820,11 @@ Lab: [H2.CL request smuggling](https://portswigger.net/web-security/request-smug
 Difficulty: PRACTITIONER
 
 
+### [**Script 13**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab13.py)
+
+Lab: [HTTP/2 request smuggling via CRLF injection](https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-request-smuggling-via-crlf-injection)
+
+Difficulty: PRACTITIONER
+
 ...
 
