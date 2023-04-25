@@ -39,7 +39,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [CORS (Cross-Origin Resource Sharing)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CORS#cors): 3/4
 - [XXE (XML External Entity injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe): 9/9
 - [SSRF (Server-Side Request Forgery)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSRF#ssrf): 7/7
-- [HTTP Request Smuggling](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/RequestSmuggling#http-request-smuggling): 11/22
+- [HTTP Request Smuggling](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/RequestSmuggling#http-request-smuggling): 15/22
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
 
@@ -825,6 +825,21 @@ Difficulty: PRACTITIONER
 Lab: [HTTP/2 request smuggling via CRLF injection](https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-request-smuggling-via-crlf-injection)
 
 Difficulty: PRACTITIONER
+
+
+### [**Script 14**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab14.py)
+
+Lab: [HTTP/2 request splitting via CRLF injection](https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-request-splitting-via-crlf-injection)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 15**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab15.py)
+
+Lab: [CL.0 request smuggling](https://portswigger.net/web-security/request-smuggling/browser/cl-0/lab-cl-0-request-smuggling)
+
+Difficulty: PRACTITIONER
+
 
 ...
 

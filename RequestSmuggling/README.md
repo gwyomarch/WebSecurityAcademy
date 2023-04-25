@@ -93,3 +93,16 @@ Lab: [HTTP/2 request smuggling via CRLF injection](https://portswigger.net/web-s
 
 Difficulty: PRACTITIONER
 
+
+### [**Script 14**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab14.py)
+
+Lab: [HTTP/2 request splitting via CRLF injection](https://portswigger.net/web-security/request-smuggling/advanced/lab-request-smuggling-h2-request-splitting-via-crlf-injection)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 15**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab15.py)
+
+Lab: [CL.0 request smuggling](https://portswigger.net/web-security/request-smuggling/browser/cl-0/lab-cl-0-request-smuggling)
+
+Difficulty: PRACTITIONER
