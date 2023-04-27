@@ -106,3 +106,20 @@ Difficulty: PRACTITIONER
 Lab: [CL.0 request smuggling](https://portswigger.net/web-security/request-smuggling/browser/cl-0/lab-cl-0-request-smuggling)
 
 Difficulty: PRACTITIONER
+
+
+### [**Script 16**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab16.py)
+
+Lab: [Exploiting HTTP request smuggling to perform web cache poisoning](https://portswigger.net/web-security/request-smuggling/exploiting/lab-perform-web-cache-poisoning)
+
+Difficulty: EXPERT
+
+
+### [**Script 17**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab17.py)
+
+Lab: [Exploiting HTTP request smuggling to perform web cache deception](https://portswigger.net/web-security/request-smuggling/exploiting/lab-perform-web-cache-deception)
+
+Difficulty: EXPERT
+
+
+...
