@@ -122,4 +122,10 @@ Lab: [Exploiting HTTP request smuggling to perform web cache deception](https://
 Difficulty: EXPERT
 
 
+### [**Script 18**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab18.py)
+
+Lab: [Bypassing access controls via HTTP/2 request tunnelling](https://portswigger.net/web-security/request-smuggling/advanced/request-tunnelling/lab-request-smuggling-h2-bypass-access-controls-via-request-tunnelling)
+
+Difficulty: EXPERT
+
 ...
