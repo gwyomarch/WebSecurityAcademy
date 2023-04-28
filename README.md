@@ -862,6 +862,13 @@ Lab: [Bypassing access controls via HTTP/2 request tunnelling](https://portswigg
 Difficulty: EXPERT
 
 
+### [**Script 19**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab19.py)
+
+Lab: [Web cache poisoning via HTTP/2 request tunnelling](https://portswigger.net/web-security/request-smuggling/advanced/request-tunnelling/lab-request-smuggling-h2-web-cache-poisoning-via-request-tunnelling)
+
+Difficulty: EXPERT
+
+
 
 ...
 
