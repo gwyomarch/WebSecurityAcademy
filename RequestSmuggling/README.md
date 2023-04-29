@@ -136,6 +136,12 @@ Lab: [Web cache poisoning via HTTP/2 request tunnelling](https://portswigger.net
 Difficulty: EXPERT
 
 
+### [**Script 20**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab20.py)
+
+Lab: [Client-side desync](https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-client-side-desync)
+
+Difficulty: EXPERT
+
 
 ...
 
