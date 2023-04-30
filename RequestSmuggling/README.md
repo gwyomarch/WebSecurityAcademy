@@ -143,6 +143,12 @@ Lab: [Client-side desync](https://portswigger.net/web-security/request-smuggling
 Difficulty: EXPERT
 
 
+### [**Script 21**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab21.py)
+
+Lab: [Browser cache poisoning via client-side desync](https://portswigger.net/web-security/request-smuggling/browser/client-side-desync/lab-browser-cache-poisoning-via-client-side-desync)
+
+Difficulty: EXPERT
+
 ...
 
 
