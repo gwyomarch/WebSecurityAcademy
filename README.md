@@ -930,6 +930,9 @@ Lab: [Blind OS command injection with out-of-band data exfiltration](https://por
 
 Difficulty: PRACTITIONER
 
+- Requires Burp Collaborator (BurpSuite Pro)    NOT TESTED <!>
+
+
 
 ...
 
