@@ -149,6 +149,10 @@ Lab: [Browser cache poisoning via client-side desync](https://portswigger.net/we
 
 Difficulty: EXPERT
 
-...
 
+### [**Script 22**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/RequestSmuggling/exploit-lab22.py)
+
+Lab: [Server-side pause-based request smuggling](https://portswigger.net/web-security/request-smuggling/browser/pause-based-desync/lab-server-side-pause-based-request-smuggling)
+
+Difficulty: EXPERT
 
