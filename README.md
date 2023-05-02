@@ -40,6 +40,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [XXE (XML External Entity injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe): 9/9
 - [SSRF (Server-Side Request Forgery)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSRF#ssrf): 7/7
 - [HTTP Request Smuggling](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/RequestSmuggling#http-request-smuggling): 22/22
+- [OS Command Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OSCommandInjection/#os-command-injection) 5/5
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
 
@@ -889,6 +890,45 @@ Lab: [Server-side pause-based request smuggling](https://portswigger.net/web-sec
 
 Difficulty: EXPERT
 
+
+## [OS Command Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OSCommandInjection/#os-command-injection)
+
+
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OSCommandInjection/exploit-lab01.py)
+
+Lab: [OS command injection, simple case](https://portswigger.net/web-security/os-command-injection/lab-simple)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OSCommandInjection/exploit-lab02.py)
+
+Lab: [Blind OS command injection with time delays](https://portswigger.net/web-security/os-command-injection/lab-blind-time-delays)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OSCommandInjection/exploit-lab03.py)
+
+Lab: [Blind OS command injection with output redirection](https://portswigger.net/web-security/os-command-injection/lab-blind-output-redirection)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OSCommandInjection/exploit-lab04.py)
+
+Lab: [Blind OS command injection with out-of-band interaction](https://portswigger.net/web-security/os-command-injection/lab-blind-out-of-band)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OSCommandInjection/exploit-lab05.py)
+
+Lab: [Blind OS command injection with out-of-band data exfiltration](https://portswigger.net/web-security/os-command-injection/lab-blind-out-of-band-data-exfiltration)
+
+Difficulty: PRACTITIONER
 
 
 ...
