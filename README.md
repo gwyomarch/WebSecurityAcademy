@@ -41,6 +41,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [SSRF (Server-Side Request Forgery)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSRF#ssrf): 7/7
 - [HTTP Request Smuggling](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/RequestSmuggling#http-request-smuggling): 22/22
 - [OS Command Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OSCommandInjection/#os-command-injection) 5/5
+- [SSTI (Server-Side Template Injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OSCommandInjection/#ssti) 3/7
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
 
@@ -891,6 +892,10 @@ Lab: [Server-side pause-based request smuggling](https://portswigger.net/web-sec
 Difficulty: EXPERT
 
 
+
+
+
+
 ## [OS Command Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OSCommandInjection/#os-command-injection)
 
 
@@ -931,6 +936,34 @@ Lab: [Blind OS command injection with out-of-band data exfiltration](https://por
 Difficulty: PRACTITIONER
 
 - Requires Burp Collaborator (BurpSuite Pro)    NOT TESTED <!>
+
+
+
+
+
+## [SSTI (Server-Side Template Injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OSCommandInjection/#ssti)
+
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSTI/exploit-lab01.py)
+
+Lab: [Basic server-side template injection](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-basic)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSTI/exploit-lab02.py)
+
+Lab: [Basic server-side template injection (code context)](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-basic-code-context)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSTI/exploit-lab03.py)
+
+Lab: [Server-side template injection using documentation](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-using-documentation)
+
+Difficulty: PRACTITIONER
 
 
 
