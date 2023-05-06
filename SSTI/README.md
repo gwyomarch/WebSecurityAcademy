@@ -45,4 +45,9 @@ Lab: [Server-side template injection in a sandboxed environment](https://portswi
 Difficulty: EXPERT
 
 
-...
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/SSTI/exploit-lab07.py)
+
+Lab: [Server-side template injection with a custom exploit](https://portswigger.net/web-security/server-side-template-injection/exploiting/lab-server-side-template-injection-with-a-custom-exploit)
+
+Difficulty: EXPERT
+
