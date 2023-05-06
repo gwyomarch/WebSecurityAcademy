@@ -941,7 +941,7 @@ Difficulty: PRACTITIONER
 
 
 
-## [SSTI (Server-Side Template Injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OSCommandInjection/#ssti)
+## [SSTI (Server-Side Template Injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSTI/#ssti)
 
 
 
