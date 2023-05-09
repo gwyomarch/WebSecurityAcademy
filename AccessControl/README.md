@@ -61,5 +61,23 @@ Lab: [User ID controlled by request parameter with password disclosure](https://
 Difficulty: APPRENTICE
 
 
+### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab09.py)
 
+Lab: [Insecure direct object references](https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab10.py)
+
+Lab: [URL-based access control can be circumvented](https://portswigger.net/web-security/access-control/lab-url-based-access-control-can-be-circumvented)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 11**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab11.py)
+
+Lab: [Method-based access control can be circumvented](https://portswigger.net/web-security/access-control/lab-method-based-access-control-can-be-circumvented)
+
+Difficulty: PRACTITIONER
 

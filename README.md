@@ -43,7 +43,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [OS Command Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OSCommandInjection/#os-command-injection) 5/5
 - [SSTI (Server-Side Template Injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSTI/#ssti) 7/7
 - [Directory Traversal](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DirectoryTraversal/#directory-traversal) 6/6
-- [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 8/13
+- [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 11/13
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
 
@@ -1105,6 +1105,26 @@ Lab: [User ID controlled by request parameter with password disclosure](https://
 
 Difficulty: APPRENTICE
 
+
+### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab09.py)
+
+Lab: [Insecure direct object references](https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab10.py)
+
+Lab: [URL-based access control can be circumvented](https://portswigger.net/web-security/access-control/lab-url-based-access-control-can-be-circumvented)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 11**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab11.py)
+
+Lab: [Method-based access control can be circumvented](https://portswigger.net/web-security/access-control/lab-method-based-access-control-can-be-circumvented)
+
+Difficulty: PRACTITIONER
 
 
 ...
