@@ -43,7 +43,8 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [OS Command Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OSCommandInjection/#os-command-injection) 5/5
 - [SSTI (Server-Side Template Injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSTI/#ssti) 7/7
 - [Directory Traversal](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DirectoryTraversal/#directory-traversal) 6/6
-- [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 11/13
+- [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 13/13
+
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
 
@@ -1123,6 +1124,20 @@ Difficulty: PRACTITIONER
 ### [**Script 11**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab11.py)
 
 Lab: [Method-based access control can be circumvented](https://portswigger.net/web-security/access-control/lab-method-based-access-control-can-be-circumvented)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 12**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab12.py)
+
+Lab: [Multi-step process with no access control on one step](https://portswigger.net/web-security/access-control/lab-multi-step-process-with-no-access-control-on-one-step)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 13**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab13.py)
+
+Lab: [Referer-based access control](https://portswigger.net/web-security/access-control/lab-referer-based-access-control)
 
 Difficulty: PRACTITIONER
 

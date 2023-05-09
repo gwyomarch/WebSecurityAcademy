@@ -81,3 +81,18 @@ Lab: [Method-based access control can be circumvented](https://portswigger.net/w
 
 Difficulty: PRACTITIONER
 
+
+### [**Script 12**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab12.py)
+
+Lab: [Multi-step process with no access control on one step](https://portswigger.net/web-security/access-control/lab-multi-step-process-with-no-access-control-on-one-step)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 13**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/AccessControl/exploit-lab13.py)
+
+Lab: [Referer-based access control](https://portswigger.net/web-security/access-control/lab-referer-based-access-control)
+
+Difficulty: PRACTITIONER
+
+
