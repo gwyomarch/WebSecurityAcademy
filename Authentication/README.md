@@ -80,5 +80,24 @@ Lab: [Password reset poisoning via middleware](https://portswigger.net/web-secur
 Difficulty: PRACTITIONER
 
 
+### [**Script 12**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab12.py)
 
-...
+Lab: [Password brute-force via password change](https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-brute-force-via-password-change)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 13**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab13.py)
+
+Lab: [Broken brute-force protection, multiple credentials per request](https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-multiple-credentials-per-request)
+
+Difficulty: EXPERT
+
+
+### [**Script 14**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab14.py)
+
+Lab: [2FA bypass using a brute-force attack](https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-bypass-using-a-brute-force-attack)
+
+Difficulty: EXPERT
+
+

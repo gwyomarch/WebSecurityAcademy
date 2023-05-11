@@ -44,7 +44,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [SSTI (Server-Side Template Injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSTI/#ssti) 7/7
 - [Directory Traversal](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DirectoryTraversal/#directory-traversal) 6/6
 - [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 13/13
-- [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 11/14
+- [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 14/14
 
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
@@ -1226,10 +1226,25 @@ Lab: [Password reset poisoning via middleware](https://portswigger.net/web-secur
 Difficulty: PRACTITIONER
 
 
+### [**Script 12**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab12.py)
+
+Lab: [Password brute-force via password change](https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-brute-force-via-password-change)
+
+Difficulty: PRACTITIONER
 
 
+### [**Script 13**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab13.py)
+
+Lab: [Broken brute-force protection, multiple credentials per request](https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-multiple-credentials-per-request)
+
+Difficulty: EXPERT
 
 
+### [**Script 14**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab14.py)
+
+Lab: [2FA bypass using a brute-force attack](https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-bypass-using-a-brute-force-attack)
+
+Difficulty: EXPERT
 
 
 ...
