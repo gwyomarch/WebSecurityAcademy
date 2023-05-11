@@ -59,5 +59,26 @@ Lab: [2FA broken logic](https://portswigger.net/web-security/authentication/mult
 Difficulty: PRACTITIONER
 
 
+### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab09.py)
+
+Lab: [Brute-forcing a stay-logged-in cookie](https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab10.py)
+
+Lab: [Offline password cracking](https://portswigger.net/web-security/authentication/other-mechanisms/lab-offline-password-cracking)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 11**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab11.py)
+
+Lab: [Password reset poisoning via middleware](https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-poisoning-via-middleware)
+
+Difficulty: PRACTITIONER
+
+
 
 ...

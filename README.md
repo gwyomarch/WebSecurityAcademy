@@ -44,7 +44,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [SSTI (Server-Side Template Injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSTI/#ssti) 7/7
 - [Directory Traversal](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DirectoryTraversal/#directory-traversal) 6/6
 - [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 13/13
-- [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 8/14
+- [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 11/14
 
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
@@ -1201,6 +1201,27 @@ Difficulty: PRACTITIONER
 ### [**Script 08**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab08.py)
 
 Lab: [2FA broken logic](https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-broken-logic)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab09.py)
+
+Lab: [Brute-forcing a stay-logged-in cookie](https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab10.py)
+
+Lab: [Offline password cracking](https://portswigger.net/web-security/authentication/other-mechanisms/lab-offline-password-cracking)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 11**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Authentication/exploit-lab11.py)
+
+Lab: [Password reset poisoning via middleware](https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-poisoning-via-middleware)
 
 Difficulty: PRACTITIONER
 
