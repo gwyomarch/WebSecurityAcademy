@@ -45,6 +45,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Directory Traversal](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DirectoryTraversal/#directory-traversal) 6/6
 - [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 13/13
 - [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 14/14
+- [Websockets](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Websockets/#websockets) 3/3
 
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
@@ -1247,5 +1248,30 @@ Lab: [2FA bypass using a brute-force attack](https://portswigger.net/web-securit
 Difficulty: EXPERT
 
 
+
+
+## [Websockets](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Websockets/#websockets)
+
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Websockets/exploit-lab01.py)
+
+Lab: [Manipulating WebSocket messages to exploit vulnerabilities](https://portswigger.net/web-security/websockets/lab-manipulating-messages-to-exploit-vulnerabilities)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Websockets/exploit-lab02.py)
+
+Lab: [Manipulating the WebSocket handshake to exploit vulnerabilities](https://portswigger.net/web-security/websockets/lab-manipulating-handshake-to-exploit-vulnerabilities)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/Websockets/exploit-lab03.py)
+
+Lab: [Cross-site WebSocket hijacking](https://portswigger.net/web-security/websockets/cross-site-websocket-hijacking/lab)
+
+Difficulty: PRACTITIONER
 ...
 

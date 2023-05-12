@@ -1,9 +1,13 @@
 beautifulsoup4
 requests
-websockets 
+websocket
 urllib
 urllib3
 pytest-shutil
 pytesseract
 hashlib
 base64
+ssl
+socket
+time
+re
