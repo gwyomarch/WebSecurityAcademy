@@ -46,7 +46,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 13/13
 - [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 14/14
 - [Websockets](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Websockets/#websockets) 3/3
-
+- [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning) 3/12
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
 
@@ -1273,5 +1273,36 @@ Difficulty: PRACTITIONER
 Lab: [Cross-site WebSocket hijacking](https://portswigger.net/web-security/websockets/cross-site-websocket-hijacking/lab)
 
 Difficulty: PRACTITIONER
+
+
+
+
+
+## [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning)
+
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab01.py)
+
+Lab: [Web cache poisoning with an unkeyed header](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-with-an-unkeyed-header)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab02.py)
+
+Lab: [Web cache poisoning with an unkeyed cookie](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-with-an-unkeyed-cookie)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab03.py)
+
+Lab: [Web cache poisoning with multiple headers](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-with-multiple-headers)
+
+Difficulty: PRACTITIONER
+
+
+
 ...
 

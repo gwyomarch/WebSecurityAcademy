@@ -23,3 +23,4 @@ Difficulty: PRACTITIONER
 Lab: [Cross-site WebSocket hijacking](https://portswigger.net/web-security/websockets/cross-site-websocket-hijacking/lab)
 
 Difficulty: PRACTITIONER
+
