@@ -32,4 +32,11 @@ Lab: [Targeted web cache poisoning using an unknown header](https://portswigger.
 Difficulty: PRACTITIONER
 
 
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab05.py)
+
+Lab: [Web cache poisoning via an unkeyed query string](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-unkeyed-query)
+
+Difficulty: PRACTITIONER
+
+
 
