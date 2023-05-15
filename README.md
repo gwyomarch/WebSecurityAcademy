@@ -46,7 +46,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 13/13
 - [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 14/14
 - [Websockets](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Websockets/#websockets) 3/3
-- [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning) 5/12
+- [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning) 9/12
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
 
@@ -1315,6 +1315,36 @@ Difficulty: PRACTITIONER
 Lab: [Web cache poisoning via an unkeyed query string](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-unkeyed-query)
 
 Difficulty: PRACTITIONER
+
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab06.py)
+
+Lab: [Web cache poisoning via an unkeyed query parameter](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-unkeyed-param)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab07.py)
+
+Lab: [Parameter cloaking](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-param-cloaking)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 08**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab08.py)
+
+Lab: [Web cache poisoning via a fat GET request](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-fat-get)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab09.py)
+
+Lab: [URL normalization](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-normalization)
+
+Difficulty: PRACTITIONER
+
+
 
 ...
 

@@ -39,4 +39,32 @@ Lab: [Web cache poisoning via an unkeyed query string](https://portswigger.net/w
 Difficulty: PRACTITIONER
 
 
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab06.py)
+
+Lab: [Web cache poisoning via an unkeyed query parameter](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-unkeyed-param)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab07.py)
+
+Lab: [Parameter cloaking](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-param-cloaking)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 08**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab08.py)
+
+Lab: [Web cache poisoning via a fat GET request](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-fat-get)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab09.py)
+
+Lab: [URL normalization](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-normalization)
+
+Difficulty: PRACTITIONER
+
+
 
