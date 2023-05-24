@@ -67,4 +67,24 @@ Lab: [URL normalization](https://portswigger.net/web-security/web-cache-poisonin
 Difficulty: PRACTITIONER
 
 
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab10.py)
 
+Lab: [Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-to-exploit-a-dom-vulnerability-via-a-cache-with-strict-cacheability-criteria)
+
+Difficulty: EXPERT
+
+
+### [**Script 11**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab11.py)
+
+Lab: [Combining web cache poisoning vulnerabilities](https://portswigger.net/web-security/web-cache-poisoning/exploiting-design-flaws/lab-web-cache-poisoning-combining-vulnerabilities)
+
+Difficulty: EXPERT
+
+
+### [**Script 12**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab12.py)
+
+Lab: [Cache key injection](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-cache-key-injection)
+
+Difficulty: EXPERT
+
+...
