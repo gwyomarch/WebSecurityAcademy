@@ -87,4 +87,10 @@ Lab: [Cache key injection](https://portswigger.net/web-security/web-cache-poison
 
 Difficulty: EXPERT
 
-...
+
+### [**Script 13**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab13.py)
+
+Lab: [Internal cache poisoning](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-internal)
+
+Difficulty: EXPERT
+

@@ -46,7 +46,8 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Access Control Vulnerabilities](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/AccessControl/#access-control) 13/13
 - [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 14/14
 - [Websockets](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Websockets/#websockets) 3/3
-- [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning) 9/12
+- [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning) 13/13
+
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
 
@@ -1371,6 +1372,13 @@ Difficulty: EXPERT
 ### [**Script 12**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab12.py)
 
 Lab: [Cache key injection](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-cache-key-injection)
+
+Difficulty: EXPERT
+
+
+### [**Script 13**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/WebCachePoisoning/exploit-lab13.py)
+
+Lab: [Internal cache poisoning](https://portswigger.net/web-security/web-cache-poisoning/exploiting-implementation-flaws/lab-web-cache-poisoning-internal)
 
 Difficulty: EXPERT
 
