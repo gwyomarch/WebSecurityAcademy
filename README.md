@@ -47,6 +47,8 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 14/14
 - [Websockets](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Websockets/#websockets) 3/3
 - [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning) 13/13
+- [Insecure Deserialization](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InsecureDeserialization/#insecure-deserialization) 2/10
+
 
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
@@ -1382,6 +1384,23 @@ Lab: [Internal cache poisoning](https://portswigger.net/web-security/web-cache-p
 
 Difficulty: EXPERT
 
+
+
+## [Insecure Deserialization](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InsecureDeserialization/#insecure-deserialization)
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InsecureDeserialization/exploit-lab01.py)
+
+Lab: [Modifying serialized objects](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-modifying-serialized-objects)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InsecureDeserialization/exploit-lab02.py)
+
+Lab: [Modifying serialized data types](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-modifying-serialized-data-types)
+
+Difficulty: PRACTITIONER
 
 
 ...
