@@ -1424,6 +1424,14 @@ Lab: [Exploiting Java deserialization with Apache Commons](https://portswigger.n
 Difficulty: PRACTITIONER
 
 
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InsecureDeserialization/exploit-lab06.py)
+
+Lab: [Exploiting PHP deserialization with a pre-built gadget chain](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-exploiting-php-deserialization-with-a-pre-built-gadget-chain)
+
+Difficulty: PRACTITIONER
+
+
+
 
 ...
 
