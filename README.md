@@ -48,6 +48,9 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Websockets](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Websockets/#websockets) 3/3
 - [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning) 13/13
 - [Insecure Deserialization](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InsecureDeserialization/#insecure-deserialization) 10/10
+- [Information Disclosure](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InformationDisclosure/#information-disclosure) 5/5
+
+
 
 
 
@@ -1459,5 +1462,43 @@ Lab: [Using PHAR deserialization to deploy a custom gadget chain](https://portsw
 Difficulty: EXPERT
 
 
-...
 
+## [Information Disclosure](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InformationDisclosure/#information-disclosure)
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InformationDisclosure/exploit-lab01.py)
+
+Lab: [Information disclosure in error messages](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-in-error-messages)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InformationDisclosure/exploit-lab02.py)
+
+Lab: [Information disclosure on debug page](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-on-debug-page)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InformationDisclosure/exploit-lab03.py)
+
+Lab: [Source code disclosure via backup files](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-via-backup-files)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InformationDisclosure/exploit-lab04.py)
+
+Lab: [Authentication bypass via information disclosure](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-authentication-bypass)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InformationDisclosure/exploit-lab05.py)
+
+Lab: [Information disclosure in version control history](https://portswigger.net/web-security/information-disclosure/exploiting/lab-infoleak-in-version-control-history)
+
+Difficulty: PRACTITIONER
+
+
+...
