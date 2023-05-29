@@ -65,3 +65,10 @@ Lab: [Developing a custom gadget chain for PHP deserialization](https://portswig
 Difficulty: EXPERT
 
 
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InsecureDeserialization/exploit-lab10.py)
+
+Lab: [Using PHAR deserialization to deploy a custom gadget chain](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-using-phar-deserialization-to-deploy-a-custom-gadget-chain)
+
+Difficulty: EXPERT
+
+

@@ -47,7 +47,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Authentication](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Authentication/#authentication) 14/14
 - [Websockets](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/Websockets/#websockets) 3/3
 - [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning) 13/13
-- [Insecure Deserialization](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InsecureDeserialization/#insecure-deserialization) 9/10
+- [Insecure Deserialization](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InsecureDeserialization/#insecure-deserialization) 10/10
 
 
 
@@ -1448,6 +1448,13 @@ Difficulty: EXPERT
 ### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InsecureDeserialization/exploit-lab09.py)
 
 Lab: [Developing a custom gadget chain for PHP deserialization](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-developing-a-custom-gadget-chain-for-php-deserialization)
+
+Difficulty: EXPERT
+
+
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InsecureDeserialization/exploit-lab10.py)
+
+Lab: [Using PHAR deserialization to deploy a custom gadget chain](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-using-phar-deserialization-to-deploy-a-custom-gadget-chain)
 
 Difficulty: EXPERT
 
