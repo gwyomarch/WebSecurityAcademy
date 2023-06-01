@@ -36,4 +36,11 @@ Lab: [Low-level logic flaw](https://portswigger.net/web-security/logic-flaws/exa
 
 Difficulty: PRACTITIONER
 
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab06.py)
+
+Lab: [Inconsistent handling of exceptional input](https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-inconsistent-handling-of-exceptional-input)
+
+Difficulty: PRACTITIONER
+
 ...
