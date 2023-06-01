@@ -43,4 +43,12 @@ Lab: [Inconsistent handling of exceptional input](https://portswigger.net/web-se
 
 Difficulty: PRACTITIONER
 
+
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab07.py)
+
+Lab: [Weak isolation on dual-use endpoint](https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-weak-isolation-on-dual-use-endpoint)
+
+Difficulty: PRACTITIONER
+
+
 ...
