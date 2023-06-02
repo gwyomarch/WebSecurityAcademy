@@ -49,7 +49,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Web Cache Poisoning](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/WebCachePoisoning/#web-cache-poisoning) 13/13
 - [Insecure Deserialization](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InsecureDeserialization/#insecure-deserialization) 10/10
 - [Information Disclosure](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InformationDisclosure/#information-disclosure) 5/5
-- [Business Logic](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/BusinessLogic/#business-logic) 7/11
+- [Business Logic](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/BusinessLogic/#business-logic) 10/11
 
 
 
@@ -1562,6 +1562,26 @@ Lab: [Weak isolation on dual-use endpoint](https://portswigger.net/web-security/
 
 Difficulty: PRACTITIONER
 
+
+### [**Script 08**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab08.py)
+
+Lab: [Insufficient workflow validation](https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-insufficient-workflow-validation)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab09.py)
+
+Lab: [Authentication bypass via flawed state machine](https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-authentication-bypass-via-flawed-state-machine)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab10.py)
+
+Lab: [Infinite money logic flaw](https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-infinite-money)
+
+Difficulty: PRACTITIONER
 
 ...
 
