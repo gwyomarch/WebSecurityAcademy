@@ -72,4 +72,11 @@ Lab: [Infinite money logic flaw](https://portswigger.net/web-security/logic-flaw
 Difficulty: PRACTITIONER
 
 
+### [**Script 11**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab11.py)
+
+Lab: [Authentication bypass via encryption oracle](https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-authentication-bypass-via-encryption-oracle)
+
+Difficulty: PRACTITIONER
+
+
 ...
