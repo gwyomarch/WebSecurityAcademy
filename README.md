@@ -1617,6 +1617,20 @@ Lab: [Web cache poisoning via ambiguous requests](https://portswigger.net/web-se
 Difficulty: PRACTITIONER
 
 
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab04.py)
+
+Lab: [Routing-based SSRF](https://portswigger.net/web-security/host-header/exploiting/lab-host-header-routing-based-ssrf)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab05.py)
+
+Lab: [SSRF via flawed request parsing](https://portswigger.net/web-security/host-header/exploiting/lab-host-header-ssrf-via-flawed-request-parsing)
+
+Difficulty: PRACTITIONER
+
+
 
 ...
 
