@@ -37,5 +37,12 @@ Lab: [SSRF via flawed request parsing](https://portswigger.net/web-security/host
 Difficulty: PRACTITIONER
 
 
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab06.py)
+
+Lab: [Host validation bypass via connection state attack](https://portswigger.net/web-security/host-header/exploiting/lab-host-header-host-validation-bypass-via-connection-state-attack)
+
+Difficulty: PRACTITIONER
+
+
 ...
 

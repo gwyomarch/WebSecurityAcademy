@@ -50,7 +50,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Insecure Deserialization](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InsecureDeserialization/#insecure-deserialization) 10/10
 - [Information Disclosure](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InformationDisclosure/#information-disclosure) 5/5
 - [Business Logic](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/BusinessLogic/#business-logic) 11/11
-- [Host Header](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/HostHeader/#host-header) 3/7
+- [Host Header](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/HostHeader/#host-header) 6/7
 
 
 
@@ -1627,6 +1627,13 @@ Difficulty: PRACTITIONER
 ### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab05.py)
 
 Lab: [SSRF via flawed request parsing](https://portswigger.net/web-security/host-header/exploiting/lab-host-header-ssrf-via-flawed-request-parsing)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/BusinessLogic/exploit-lab06.py)
+
+Lab: [Host validation bypass via connection state attack](https://portswigger.net/web-security/host-header/exploiting/lab-host-header-host-validation-bypass-via-connection-state-attack)
 
 Difficulty: PRACTITIONER
 
