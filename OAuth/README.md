@@ -31,6 +31,13 @@ Lab: [Stealing OAuth access tokens via an open redirect](https://portswigger.net
 Difficulty: PRACTITIONER
 
 
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OAuth/exploit-lab05.py)
+
+Lab: [SSRF via OpenID dynamic client registration](https://portswigger.net/web-security/oauth/openid/lab-oauth-ssrf-via-openid-dynamic-client-registration)
+
+Difficulty: PRACTITIONER
+
+
 
 ...
 
