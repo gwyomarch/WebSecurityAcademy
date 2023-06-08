@@ -51,7 +51,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Information Disclosure](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InformationDisclosure/#information-disclosure) 5/5
 - [Business Logic](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/BusinessLogic/#business-logic) 11/11
 - [Host Header](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/HostHeader/#host-header) 7/7
-- [OAuth](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OAuth/#oauth) 3/6
+- [OAuth](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OAuth/#oauth) 4/6
 
 
 
@@ -1668,6 +1668,13 @@ Difficulty: PRACTITIONER
 ### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OAuth/exploit-lab03.py)
 
 Lab: [OAuth account hijacking via redirect_uri](https://portswigger.net/web-security/oauth/lab-oauth-account-hijacking-via-redirect-uri)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OAuth/exploit-lab04.py)
+
+Lab: [Stealing OAuth access tokens via an open redirect](https://portswigger.net/web-security/oauth/lab-oauth-stealing-oauth-access-tokens-via-an-open-redirect)
 
 Difficulty: PRACTITIONER
 

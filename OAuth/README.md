@@ -24,6 +24,13 @@ Lab: [OAuth account hijacking via redirect_uri](https://portswigger.net/web-secu
 Difficulty: PRACTITIONER
 
 
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OAuth/exploit-lab04.py)
+
+Lab: [Stealing OAuth access tokens via an open redirect](https://portswigger.net/web-security/oauth/lab-oauth-stealing-oauth-access-tokens-via-an-open-redirect)
+
+Difficulty: PRACTITIONER
+
+
 
 ...
 
