@@ -52,7 +52,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Business Logic](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/BusinessLogic/#business-logic) 11/11
 - [Host Header](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/HostHeader/#host-header) 7/7
 - [OAuth](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OAuth/#oauth) 6/6
-- [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload) 6/7
+- [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload) 7/7
 
 
 
@@ -1742,6 +1742,15 @@ Difficulty: PRACTITIONER
 Lab: [Remote code execution via polyglot web shell upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-polyglot-web-shell-upload)
 
 Difficulty: PRACTITIONER
+
+
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab07.py)
+
+Lab: [Web shell upload via race condition](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-race-condition)
+
+Difficulty: EXPERT
+
+
 
 
 

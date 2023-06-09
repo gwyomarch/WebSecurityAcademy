@@ -45,6 +45,10 @@ Lab: [Remote code execution via polyglot web shell upload](https://portswigger.n
 Difficulty: PRACTITIONER
 
 
-...
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab07.py)
+
+Lab: [Web shell upload via race condition](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-race-condition)
+
+Difficulty: EXPERT
 
 
