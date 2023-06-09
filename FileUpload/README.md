@@ -25,14 +25,14 @@ Difficulty: PRACTITIONER
 
 ### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab04.py)
 
-Lab: [Web shell upload via obfuscated file extension](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)
+Lab: [Web shell upload via extension blacklist bypass](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass)
 
 Difficulty: PRACTITIONER
 
 
 ### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab05.py)
 
-Lab: [](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)
+Lab: [Web shell upload via obfuscated file extension](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)
 
 Difficulty: PRACTITIONER
 

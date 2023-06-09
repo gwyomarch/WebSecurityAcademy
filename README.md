@@ -1700,6 +1700,7 @@ Difficulty: EXPERT
 ## [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload)
 
 
+
 ### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab01.py)
 
 Lab: [Remote code execution via web shell upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-web-shell-upload)
@@ -1719,6 +1720,30 @@ Difficulty: APPRENTICE
 Lab: [Web shell upload via path traversal](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-path-traversal)
 
 Difficulty: PRACTITIONER
+
+
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab04.py)
+
+Lab: [Web shell upload via extension blacklist bypass](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab05.py)
+
+Lab: [Web shell upload via obfuscated file extension](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)
+
+Difficulty: PRACTITIONER
+
+
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab06.py)
+
+Lab: [Remote code execution via polyglot web shell upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-polyglot-web-shell-upload)
+
+Difficulty: PRACTITIONER
+
+
 
 ...
 
