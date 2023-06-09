@@ -23,6 +23,28 @@ Lab: [Web shell upload via path traversal](https://portswigger.net/web-security/
 Difficulty: PRACTITIONER
 
 
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab04.py)
+
+Lab: [Web shell upload via obfuscated file extension](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab05.py)
+
+Lab: [](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)
+
+Difficulty: PRACTITIONER
+
+
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab06.py)
+
+Lab: [Remote code execution via polyglot web shell upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-polyglot-web-shell-upload)
+
+Difficulty: PRACTITIONER
+
+
 ...
 
 
