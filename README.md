@@ -52,6 +52,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Business Logic](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/BusinessLogic/#business-logic) 11/11
 - [Host Header](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/HostHeader/#host-header) 7/7
 - [OAuth](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OAuth/#oauth) 6/6
+- [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload) 3/7
 
 
 
@@ -1693,6 +1694,31 @@ Lab: [Stealing OAuth access tokens via a proxy page](https://portswigger.net/web
 Difficulty: EXPERT
 
 
+
+
+
+## [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload)
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab01.py)
+
+Lab: [Remote code execution via web shell upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-web-shell-upload)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab02.py)
+
+Lab: [Web shell upload via Content-Type restriction bypass](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-content-type-restriction-bypass)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/FileUpload/exploit-lab03.py)
+
+Lab: [Web shell upload via path traversal](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-path-traversal)
+
+Difficulty: PRACTITIONER
 
 ...
 
