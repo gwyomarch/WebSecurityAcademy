@@ -52,7 +52,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Business Logic](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/BusinessLogic/#business-logic) 11/11
 - [Host Header](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/HostHeader/#host-header) 7/7
 - [OAuth](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OAuth/#oauth) 6/6
-- [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload) 3/7
+- [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload) 6/7
 
 
 
