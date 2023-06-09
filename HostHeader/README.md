@@ -51,5 +51,3 @@ Lab: [Password reset poisoning via dangling markup](https://portswigger.net/web-
 Difficulty: EXPERT
 
 
-...
-

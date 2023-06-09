@@ -79,4 +79,3 @@ Lab: [Authentication bypass via encryption oracle](https://portswigger.net/web-s
 Difficulty: PRACTITIONER
 
 
-...

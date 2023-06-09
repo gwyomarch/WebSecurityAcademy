@@ -38,6 +38,9 @@ Lab: [SSRF via OpenID dynamic client registration](https://portswigger.net/web-s
 Difficulty: PRACTITIONER
 
 
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OAuth/exploit-lab06.py)
 
-...
+Lab: [Stealing OAuth access tokens via a proxy page](https://portswigger.net/web-security/oauth/lab-oauth-stealing-oauth-access-tokens-via-a-proxy-page)
+
+Difficulty: EXPERT
 

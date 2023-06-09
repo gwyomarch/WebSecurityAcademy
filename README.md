@@ -51,7 +51,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Information Disclosure](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/InformationDisclosure/#information-disclosure) 5/5
 - [Business Logic](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/BusinessLogic/#business-logic) 11/11
 - [Host Header](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/HostHeader/#host-header) 7/7
-- [OAuth](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OAuth/#oauth) 4/6
+- [OAuth](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OAuth/#oauth) 6/6
 
 
 
@@ -1685,6 +1685,12 @@ Lab: [SSRF via OpenID dynamic client registration](https://portswigger.net/web-s
 
 Difficulty: PRACTITIONER
 
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/OAuth/exploit-lab06.py)
+
+Lab: [Stealing OAuth access tokens via a proxy page](https://portswigger.net/web-security/oauth/lab-oauth-stealing-oauth-access-tokens-via-a-proxy-page)
+
+Difficulty: EXPERT
 
 
 

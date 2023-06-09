@@ -28,3 +28,4 @@ Difficulty: PRACTITIONER
 Lab: [CORS vulnerability with internal network pivot attack](https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack)
 
 Difficulty: EXPERT
+
