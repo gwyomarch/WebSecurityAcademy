@@ -6,6 +6,7 @@ urllib3
 pytest-shutil
 pytesseract
 hashlib
+hmac
 base64
 ssl
 socket
@@ -13,3 +14,4 @@ time
 re
 subprocess
 concurrent
+pyJWT==1.7.1

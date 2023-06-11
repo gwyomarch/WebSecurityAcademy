@@ -15,3 +15,13 @@ Lab: [JWT authentication bypass via flawed signature verification](https://ports
 
 Difficulty: APPRENTICE
 
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/JWT/exploit-lab03.py)
+
+Lab: [JWT authentication bypass via weak signing key](https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-weak-signing-key)
+
+Difficulty: PRACTITIONER
+
+
+...
+
