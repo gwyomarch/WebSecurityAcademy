@@ -14,4 +14,3 @@ time
 re
 subprocess
 concurrent
-pyJWT==1.7.1
