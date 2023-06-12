@@ -23,5 +23,12 @@ Lab: [JWT authentication bypass via weak signing key](https://portswigger.net/we
 Difficulty: PRACTITIONER
 
 
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/JWT/exploit-lab04.py)
+
+Lab: [JWT authentication bypass via jwk header injection](https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-jwk-header-injection)
+
+Difficulty: PRACTITIONER
+
+
 ...
 
