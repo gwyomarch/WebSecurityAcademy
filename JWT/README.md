@@ -37,5 +37,13 @@ Lab: [JWT authentication bypass via jku header injection](https://portswigger.ne
 Difficulty: PRACTITIONER
 
 
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/JWT/exploit-lab06.py)
+
+Lab: [JWT authentication bypass via kid header path traversal](https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-kid-header-path-traversal)
+
+Difficulty: PRACTITIONER
+
+
+
 ...
 
