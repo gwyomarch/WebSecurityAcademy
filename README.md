@@ -53,7 +53,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [Host Header](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/HostHeader/#host-header) 7/7
 - [OAuth](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OAuth/#oauth) 6/6
 - [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload) 7/7
-- [JWT (JSON Web Token)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/JWT/#jwt) 6/8
+- [JWT (JSON Web Token)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/JWT/#jwt) 7/8
 
 
 ## [SQL Injection](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SQLInjection#sql-injection)
@@ -1800,6 +1800,11 @@ Lab: [JWT authentication bypass via kid header path traversal](https://portswigg
 Difficulty: PRACTITIONER
 
 
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/JWT/exploit-lab07.py)
+
+Lab: [JWT authentication bypass via algorithm confusion](https://portswigger.net/web-security/jwt/algorithm-confusion/lab-jwt-authentication-bypass-via-algorithm-confusion)
+
+Difficulty: EXPERT
 
 
 

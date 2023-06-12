@@ -44,6 +44,13 @@ Lab: [JWT authentication bypass via kid header path traversal](https://portswigg
 Difficulty: PRACTITIONER
 
 
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/JWT/exploit-lab07.py)
+
+Lab: [JWT authentication bypass via algorithm confusion](https://portswigger.net/web-security/jwt/algorithm-confusion/lab-jwt-authentication-bypass-via-algorithm-confusion)
+
+Difficulty: EXPERT
+
+
 
 ...
 
