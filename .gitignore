@@ -2,3 +2,4 @@ notes.txt
 *.zip
 */__pycache__
 JWT/*.pem
+EssentialSkills/

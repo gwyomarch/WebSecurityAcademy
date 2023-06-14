@@ -51,6 +51,10 @@ Lab: [JWT authentication bypass via algorithm confusion](https://portswigger.net
 Difficulty: EXPERT
 
 
+### [**Script 08**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/JWT/exploit-lab08.py)
 
-...
+Lab: [JWT authentication bypass via algorithm confusion with no exposed key](https://portswigger.net/web-security/jwt/algorithm-confusion/lab-jwt-authentication-bypass-via-algorithm-confusion-with-no-exposed-key)
+
+Difficulty: EXPERT
+
 
