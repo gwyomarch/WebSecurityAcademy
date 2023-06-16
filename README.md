@@ -55,7 +55,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload) 7/7
 - [JWT (JSON Web Token)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/JWT/#jwt) 8/8
 - [Essential Skills](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/EssentialSkills/#essential-skills) 1/1
-- [Prototype Pollution](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/PrototypePollution/#prototype-pollution) 5/10
+- [Prototype Pollution](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/PrototypePollution/#prototype-pollution) 6/10
 
 
 
@@ -1873,6 +1873,13 @@ Difficulty: PRACTITIONER
 ### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/PrototypePollution/exploit-lab05.py)
 
 Lab: [Client-side prototype pollution via browser APIs](https://portswigger.net/web-security/prototype-pollution/client-side/browser-apis/lab-prototype-pollution-client-side-prototype-pollution-via-browser-apis)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/PrototypePollution/exploit-lab06.py)
+
+Lab: [Privilege escalation via server-side prototype pollution](https://portswigger.net/web-security/prototype-pollution/server-side/lab-privilege-escalation-via-server-side-prototype-pollution)
 
 Difficulty: PRACTITIONER
 

@@ -38,5 +38,12 @@ Lab: [Client-side prototype pollution via browser APIs](https://portswigger.net/
 Difficulty: PRACTITIONER
 
 
+### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/PrototypePollution/exploit-lab06.py)
+
+Lab: [Privilege escalation via server-side prototype pollution](https://portswigger.net/web-security/prototype-pollution/server-side/lab-privilege-escalation-via-server-side-prototype-pollution)
+
+Difficulty: PRACTITIONER
+
+
 ...
 
