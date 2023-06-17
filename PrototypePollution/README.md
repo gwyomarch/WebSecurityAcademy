@@ -59,5 +59,12 @@ Lab: [Bypassing flawed input filters for server-side prototype pollution](https:
 Difficulty: PRACTITIONER
 
 
+### [**Script 09**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/PrototypePollution/exploit-lab09.py)
+
+Lab: [Remote code execution via server-side prototype pollution](https://portswigger.net/web-security/prototype-pollution/server-side/lab-remote-code-execution-via-server-side-prototype-pollution)
+
+Difficulty: PRACTITIONER
+
+
 ...
 
