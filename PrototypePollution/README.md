@@ -45,5 +45,19 @@ Lab: [Privilege escalation via server-side prototype pollution](https://portswig
 Difficulty: PRACTITIONER
 
 
+### [**Script 07**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/PrototypePollution/exploit-lab07.py)
+
+Lab: [Detecting server-side prototype pollution without polluted property reflection](https://portswigger.net/web-security/prototype-pollution/server-side/lab-detecting-server-side-prototype-pollution-without-polluted-property-reflection)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 08**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/PrototypePollution/exploit-lab08.py)
+
+Lab: [Bypassing flawed input filters for server-side prototype pollution](https://portswigger.net/web-security/prototype-pollution/server-side/lab-bypassing-flawed-input-filters-for-server-side-prototype-pollution)
+
+Difficulty: PRACTITIONER
+
+
 ...
 
