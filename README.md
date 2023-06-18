@@ -36,7 +36,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [CSRF (Cross-Site Request Forgery)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CSRF#csrf): 12/12
 - [ClickJacking](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/ClickJacking#clickjacking): 5/5
 - [DOM-Based XSS](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/DOMBasedXSS#dombasedxss): 7/7
-- [CORS (Cross-Origin Resource Sharing)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CORS#cors): 3/4
+- [CORS (Cross-Origin Resource Sharing)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/CORS#cors): 4/4
 - [XXE (XML External Entity injection)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/XXE#xxe): 9/9
 - [SSRF (Server-Side Request Forgery)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/SSRF#ssrf): 7/7
 - [HTTP Request Smuggling](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/RequestSmuggling#http-request-smuggling): 22/22
@@ -620,7 +620,7 @@ Lab: [CORS vulnerability with trusted insecure protocols](https://portswigger.ne
 Difficulty: PRACTITIONER
 
 
-### **Script 04** **W.I.P.**
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CORS/exploit-lab04.py)
 
 Lab: [CORS vulnerability with internal network pivot attack](https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack)
 

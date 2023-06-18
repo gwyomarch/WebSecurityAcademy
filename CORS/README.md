@@ -23,7 +23,7 @@ Lab: [CORS vulnerability with trusted insecure protocols](https://portswigger.ne
 Difficulty: PRACTITIONER
 
 
-### **Script 04** **W.I.P.**
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/CORS/exploit-lab04.py)
 
 Lab: [CORS vulnerability with internal network pivot attack](https://portswigger.net/web-security/cors/lab-internal-network-pivot-attack)
 
