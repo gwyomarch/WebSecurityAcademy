@@ -66,5 +66,9 @@ Lab: [Remote code execution via server-side prototype pollution](https://portswi
 Difficulty: PRACTITIONER
 
 
-...
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/PrototypePollution/exploit-lab10.py)
+
+Lab: [Exfiltrating sensitive data via server-side prototype pollution](https://portswigger.net/web-security/prototype-pollution/server-side/lab-exfiltrating-sensitive-data-via-server-side-prototype-pollution)
+
+Difficulty: EXPERT
 

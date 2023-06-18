@@ -55,7 +55,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload) 7/7
 - [JWT (JSON Web Token)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/JWT/#jwt) 8/8
 - [Essential Skills](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/EssentialSkills/#essential-skills) 1/1
-- [Prototype Pollution](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/PrototypePollution/#prototype-pollution) 9/10
+- [Prototype Pollution](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/PrototypePollution/#prototype-pollution) 10/10
 
 
 
@@ -1905,5 +1905,9 @@ Lab: [Remote code execution via server-side prototype pollution](https://portswi
 Difficulty: PRACTITIONER
 
 
-...
+### [**Script 10**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/PrototypePollution/exploit-lab10.py)
+
+Lab: [Exfiltrating sensitive data via server-side prototype pollution](https://portswigger.net/web-security/prototype-pollution/server-side/lab-exfiltrating-sensitive-data-via-server-side-prototype-pollution)
+
+Difficulty: EXPERT
 
