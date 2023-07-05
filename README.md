@@ -1,6 +1,7 @@
 # PORTSWIGGER Web Security Academy Scripts
 
-![WebSecurityAcademy](Portswigger.png)
+![WebSecurityAcademyLabs](Portswigger.png)
+![WebSecurityAcademyLeaderboard](Portswigger2.png)
 
 FOR EDUCATIONAL PURPOSE ONLY
 
@@ -57,7 +58,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [JWT (JSON Web Token)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/JWT/#jwt) 8/8
 - [Essential Skills](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/EssentialSkills/#essential-skills) 1/1
 - [Prototype Pollution](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/PrototypePollution/#prototype-pollution) 10/10
-- [GraphQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/GraphQL/#graphql) 4/5
+- [GraphQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/GraphQL/#graphql) 5/5
 
 
 
@@ -1948,5 +1949,9 @@ Lab: [Bypassing GraphQL brute force protections](https://portswigger.net/web-sec
 Difficulty: PRACTITIONER
 
 
-...
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/GraphQL/exploit-lab05.py)
+
+Lab: [Performing CSRF exploits over GraphQL](https://portswigger.net/web-security/graphql/lab-graphql-csrf-via-graphql-api)
+
+Difficulty: PRACTITIONER
 
