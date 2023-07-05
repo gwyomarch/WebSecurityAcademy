@@ -22,3 +22,11 @@ Lab: [Finding a hidden GraphQL endpoint](https://portswigger.net/web-security/gr
 
 Difficulty: PRACTITIONER
 
+
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/GraphQL/exploit-lab04.py)
+
+Lab: [Bypassing GraphQL brute force protections](https://portswigger.net/web-security/graphql/lab-graphql-brute-force-protection-bypass)
+
+Difficulty: PRACTITIONER
+
+...
