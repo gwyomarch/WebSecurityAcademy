@@ -57,7 +57,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxx
 - [JWT (JSON Web Token)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/JWT/#jwt) 8/8
 - [Essential Skills](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/EssentialSkills/#essential-skills) 1/1
 - [Prototype Pollution](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/PrototypePollution/#prototype-pollution) 10/10
-- [GraphQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/GraphQL/#graphql) 2/5
+- [GraphQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/GraphQL/#graphql) 3/5
 
 
 
@@ -1932,3 +1932,15 @@ Difficulty: APPRENTICE
 Lab: [Accidental exposure of private GraphQL fields](https://portswigger.net/web-security/graphql/lab-graphql-accidental-field-exposure)
 
 Difficulty: PRACTITIONER
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/GraphQL/exploit-lab03.py)
+
+Lab: [Finding a hidden GraphQL endpoint](https://portswigger.net/web-security/graphql/lab-graphql-find-the-endpoint)
+
+Difficulty: PRACTITIONER
+
+
+
+...
+

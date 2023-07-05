@@ -15,3 +15,10 @@ Lab: [Accidental exposure of private GraphQL fields](https://portswigger.net/web
 
 Difficulty: PRACTITIONER
 
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/GraphQL/exploit-lab03.py)
+
+Lab: [Finding a hidden GraphQL endpoint](https://portswigger.net/web-security/graphql/lab-graphql-find-the-endpoint)
+
+Difficulty: PRACTITIONER
+
