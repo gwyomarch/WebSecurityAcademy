@@ -13,21 +13,17 @@ Feel free to hack and improve them to your liking.
 **Usages:**
 
 ```bash
+python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net
 python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net <YOUR_PAYLOAD>
 python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net SOLUTION
 python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net "SOLUTION1"
 python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net 'SOLUTION2'
 python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net $(cat <YOUR_PAYLOAD_FILE>)
 
-python3 exploit-lab01.py <TARGET> <ATTACKER>
-python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxxxxxxxxx.exploit-server.net
-python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxxxxxxxxx.exploit-server.net SOLUTION
-python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxxxxxxxxx.exploit-server.net $(cat <YOUR_PAYLOAD_FILE>)
-
-python3 exploit-lab01.py <TARGET> <ATTACKER> <COLLABORATOR>
-python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxxxxxxxxx.exploit-server.net xxxxxxxxxx.oastify.com
-python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxxxxxxxxx.exploit-server.net xxxxxxxxxx.oastify.com SOLUTION
-python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net https://xxxxxxxxxx.exploit-server.net xxxxxxxxxx.oastify.com $(cat <YOUR_PAYLOAD_FILE>)
+python3 exploit-lab01.py <TARGET> <COLLABORATOR>
+python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net xxxxxxxxxx.oastify.com
+python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net xxxxxxxxxx.oastify.com SOLUTION
+python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net xxxxxxxxxx.oastify.com $(cat <YOUR_PAYLOAD_FILE>)
 ```
 
 
