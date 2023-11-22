@@ -55,6 +55,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net xxxxxxxxxx.
 - [Essential Skills](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/EssentialSkills/#essential-skills) 1/1
 - [Prototype Pollution](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/PrototypePollution/#prototype-pollution) 10/10
 - [GraphQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/GraphQL/#graphql) 5/5
+- [NoSQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/NoSQL/#nosql) 4/4
 
 
 
@@ -1948,6 +1949,39 @@ Difficulty: PRACTITIONER
 ### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/GraphQL/exploit-lab05.py)
 
 Lab: [Performing CSRF exploits over GraphQL](https://portswigger.net/web-security/graphql/lab-graphql-csrf-via-graphql-api)
+
+Difficulty: PRACTITIONER
+
+
+
+## [NoSQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/NoSQL/#nosql)
+
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/NoSQL/exploit-lab01.py)
+
+Lab: [Detecting NoSQL injection](https://portswigger.net/web-security/nosql-injection/lab-nosql-injection-detection)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/NoSQL/exploit-lab02.py)
+
+Lab: [Exploiting NoSQL operator injection to bypass authentication](https://portswigger.net/web-security/nosql-injection/lab-nosql-injection-bypass-authentication)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/NoSQL/exploit-lab03.py)
+
+Lab: [Exploiting NoSQL injection to extract data](https://portswigger.net/web-security/nosql-injection/lab-nosql-injection-extract-data)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/NoSQL/exploit-lab04.py)
+
+Lab: [Exploiting NoSQL operator injection to extract unknown fields](https://portswigger.net/web-security/nosql-injection/lab-nosql-injection-extract-unknown-fields)
 
 Difficulty: PRACTITIONER
 
