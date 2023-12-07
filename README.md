@@ -55,7 +55,7 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net xxxxxxxxxx.
 - [Prototype Pollution](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/PrototypePollution/#prototype-pollution) 10/10
 - [GraphQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/GraphQL/#graphql) 5/5
 - [NoSQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/NoSQL/#nosql) 4/4
-- [API testing](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/APITesting/#api-testing) 4/5
+- [API testing](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/APITesting/#api-testing) 5/5
 
 
 
@@ -2025,6 +2025,10 @@ Lab: [Exploiting a mass assignment vulnerability](https://portswigger.net/web-se
 Difficulty: PRACTITIONER
 
 
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/APITesting/exploit-lab05.py)
+
+Lab: [Exploiting server-side parameter pollution in a REST URL](https://portswigger.net/web-security/api-testing/server-side-parameter-pollution/lab-exploiting-server-side-parameter-pollution-in-rest-url)
+
+Difficulty: EXPERT
 
 
-...

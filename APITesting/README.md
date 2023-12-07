@@ -31,9 +31,10 @@ Lab: [Exploiting a mass assignment vulnerability](https://portswigger.net/web-se
 Difficulty: PRACTITIONER
 
 
+### [**Script 05**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/APITesting/exploit-lab05.py)
 
+Lab: [Exploiting server-side parameter pollution in a REST URL](https://portswigger.net/web-security/api-testing/server-side-parameter-pollution/lab-exploiting-server-side-parameter-pollution-in-rest-url)
 
-...
-
+Difficulty: EXPERT
 
 
