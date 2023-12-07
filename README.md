@@ -8,7 +8,6 @@ FOR EDUCATIONAL PURPOSE ONLY
 Written in python3, these scripts would probably have been cleaner.
 Feel free to hack and improve them to your liking. 
 
-**245/245 labs**
 
 **Usages:**
 
@@ -52,10 +51,12 @@ python3 exploit-lab01.py https://xxxxxxxxxx.web-security-academy.net xxxxxxxxxx.
 - [OAuth](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/OAuth/#oauth) 6/6
 - [File Upload](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/FileUpload/#file-upload) 7/7
 - [JWT (JSON Web Token)](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/JWT/#jwt) 8/8
-- [Essential Skills](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/EssentialSkills/#essential-skills) 1/1
+- [Essential Skills](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/EssentialSkills/#essential-skills) 1/2
 - [Prototype Pollution](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/PrototypePollution/#prototype-pollution) 10/10
 - [GraphQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/GraphQL/#graphql) 5/5
 - [NoSQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/NoSQL/#nosql) 4/4
+- [API testing](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/APITesting/#api-testing) 4/5
+
 
 
 
@@ -1954,6 +1955,9 @@ Difficulty: PRACTITIONER
 
 
 
+
+
+
 ## [NoSQL](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/NoSQL/#nosql)
 
 
@@ -1985,3 +1989,42 @@ Lab: [Exploiting NoSQL operator injection to extract unknown fields](https://por
 
 Difficulty: PRACTITIONER
 
+
+
+
+
+## [API testing](https://github.com/gwyomarch/WebSecurityAcademy/tree/main/APITesting/#api-testing)
+
+
+
+### [**Script 01**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/APITesting/exploit-lab01.py)
+
+Lab: [Exploiting an API endpoint using documentation](https://portswigger.net/web-security/api-testing/lab-exploiting-api-endpoint-using-documentation)
+
+Difficulty: APPRENTICE
+
+
+### [**Script 02**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/APITesting/exploit-lab02.py)
+
+Lab: [Exploiting server-side parameter pollution in a query string](https://portswigger.net/web-security/api-testing/server-side-parameter-pollution/lab-exploiting-server-side-parameter-pollution-in-query-string)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 03**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/APITesting/exploit-lab03.py)
+
+Lab: [Finding and exploiting an unused API endpoint](https://portswigger.net/web-security/api-testing/lab-exploiting-unused-api-endpoint)
+
+Difficulty: PRACTITIONER
+
+
+### [**Script 04**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/APITesting/exploit-lab04.py)
+
+Lab: [Exploiting a mass assignment vulnerability](https://portswigger.net/web-security/api-testing/lab-exploiting-mass-assignment-vulnerability)
+
+Difficulty: PRACTITIONER
+
+
+
+
+...
