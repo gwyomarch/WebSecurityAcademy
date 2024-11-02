@@ -38,6 +38,7 @@ Difficulty: PRACTITIONER
 
 
 ### [**Script 06**](https://github.com/gwyomarch/WebSecurityAcademy/blob/main/InsecureDeserialization/exploit-lab06.py)
+(requires php installed)
 
 Lab: [Exploiting PHP deserialization with a pre-built gadget chain](https://portswigger.net/web-security/deserialization/exploiting/lab-deserialization-exploiting-php-deserialization-with-a-pre-built-gadget-chain)
 
